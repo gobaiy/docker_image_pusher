@@ -5,6 +5,3 @@ primetoninc/jdk:1.8
 nacos/nacos-server:latest
 sonatype/nexus3:3.40.1
 enmotech/opengauss:latest
-ccr.ccs.tencentyun.com/tdsql/mysql:latest
-
-
