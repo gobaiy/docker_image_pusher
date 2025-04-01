@@ -3,3 +3,5 @@ node:14-alpine
 mysql:8
 primetoninc/jdk:1.8
 nacos/nacos-server:latest
+sonatype/nexus3:3.40.1
+
