@@ -1,3 +1,2 @@
-libretranslate/libretranslate:latest
-nvidia/cuda:12.2.0-base
+libretranslate/libretranslate:latest-cuda
 
