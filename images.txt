@@ -7,8 +7,5 @@ nacos/nacos-server:latest
 sonatype/nexus3:3.40.1
 enmotech/opengauss:latest
 libretranslate/libretranslate:latest
-nvidia/cuda:11
-libretranslate/libretranslate:gpu
-#docker search libretranslate:gpu
-#nvidia/cuda:11.0-base
-#libretranslate/libretranslate:latest-gpu
+nvidia/cuda:12.0.1-base
+
