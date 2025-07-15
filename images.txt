@@ -1,2 +1,10 @@
-libretranslate/libretranslate:latest-cuda
+langgenius/dify-api:1.6.0
+postgres:15-alpine
+nginx:latest
+langgenius/dify-plugin-daemon:0.1.3-local
+redis:6-alpine
+langgenius/dify-sandbox:0.2.12
+ubuntu/squid:latest
+langgenius/dify-web:1.6.0
+langgenius/dify-api:1.6.0
 
