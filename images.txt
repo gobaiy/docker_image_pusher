@@ -1,3 +1,3 @@
 kubeguide/guestbook-php-frontend:latest
 kubeguide/guestbook-php-frontend:localredis
-kubeguide/redis-master
+kubeguide/redis-master:latest
