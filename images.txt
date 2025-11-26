@@ -1,4 +1,1 @@
-kubeguide/guestbook-php-frontend:latest
-kubeguide/guestbook-php-frontend:localredis
-tomcat:8
-busybox:latest
+gluster/gluster-centos:latest
