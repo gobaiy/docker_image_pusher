@@ -3,3 +3,8 @@ docker.io/calico/cni:v3.24.5
 docker.io/calico/node:v3.24.5
 docker.io/calico/node:v3.24.5
 docker.io/calico/kube-controllers:v3.24.5
+human-aigc/open_avatar_chat:latest
+coturn/coturn:latest
+human-aigc/lite-avatar:latest
+human-aigc/lite-avatar:latest
+nvidia/cuda:12.4.1-cudnn9-runtime-centos8
