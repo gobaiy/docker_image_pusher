@@ -1,5 +1,2 @@
-mysql:8.0
-zabbix/zabbix-java-gateway:6.4-alpine-latest
-zabbix/zabbix-agent:6.4-alpine-latest
-zabbix/zabbix-server-mysql:6.4-alpine-latest
-zabbix/zabbix-web-nginx-mysql:6.4-alpine-latest
+--platform linux/arm64 nginx:1.28.1
+
