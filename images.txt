@@ -1,1 +1,1 @@
-vibekanban/vibe-kanban
+vibe-kanban
