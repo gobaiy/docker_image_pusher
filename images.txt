@@ -1,1 +1,1 @@
-nginx
+node:10-alpine 
