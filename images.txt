@@ -1,1 +1,1 @@
-node:10-alpine 
+node:20-slim
