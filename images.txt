@@ -1,4 +1,4 @@
-#apache/apisix:3.12
+apache/apisix
 bitnamilegacy/etcd:3.5.11
 nginx:1.19.0-alpine
 nginx:1.19.0-alpine
