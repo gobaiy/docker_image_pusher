@@ -1,1 +1,1 @@
-node:22-bookworm-slim
+sonatype/nexus3:3.75.0
